@@ -1,0 +1,18 @@
+{
+    "developer": "Desarrollador",
+    "contactMe" : "Contáctame",
+    "doYouWantToWorkWithMe" : "¿Quieres trabajar conmigo?",
+    "ifYouWantToCommunicatewithMe" : "Si quieres comunicarte conmigo o estás interesado en iniciar un proyecto juntos, ponte en contacto.",
+    "aboutMe" : "Acerca de mí",
+    "education" : "Estudios",
+    "projects" : "Proyectos",
+    "experience" : "Experiencia",
+    "summaryAboutMe" : "Hola, soy Jhonatan Gaviria. Ingeniero de Sistemas especializado en el desarrollo de aplicaciones móviles y sitios web elegantes. Me mantengo actualizado en las últimas tecnologías y me enfoco en brindar experiencias de usuario excepcionales. Enfoque en soluciones innovadoras y funcionales.",
+    "summary" : "Resumen",
+    "country" : "País",
+    "age" : "Edad",
+    "profession" : "Profesión",
+    "mobile" : "App Móvil",
+    "interestInDevelopment" : "Interés en colaboración de desarrollo",
+    "view" : "Ver"
+}

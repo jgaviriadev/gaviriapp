@@ -1,0 +1,18 @@
+{
+    "developer": "Developer",
+    "contactMe" : "Contact Me",
+    "doYouWantToWorkWithMe" : "Do you want to work with me?",
+    "ifYouWantToCommunicatewithMe" : "If you want to communicate with me or are interested in starting a project together, get in touch.",
+    "aboutMe" : "About Me",
+    "education" : "Education",
+    "projects" : "Projects",
+    "experience" : "Experience",
+    "summaryAboutMe" : "Hello, I'm Jhonatan Gaviria. I'm a Systems Engineer specialized in developing elegant mobile applications and websites. I stay updated on the latest technologies and focus on providing exceptional user experiences. My approach revolves around innovative and functional solutions.",
+    "summary" : "Summary",
+    "country" : "Country",
+    "age" : "Age",
+    "profession" : "Profession",
+    "mobile" : "Mobile",
+    "interestInDevelopment" : "Interest in Development Collaboration",
+    "view" : "View"
+}
