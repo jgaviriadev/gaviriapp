@@ -1,16 +1,38 @@
-# jgaviriadev_app
+# Gaviriapp
 
-A new Flutter project.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg" width="100%"></img> 
+</p>
 
-## Getting Started
+# Gaviriapp
 
-This project is a starting point for a Flutter application.
+A simple Portfolio App created using Flutter and Dart. The information is in a json using github-raw
 
-A few resources to get you started if this is your first Flutter project:
+UI Design inspired by :
+- [Personal Portfolio App](https://dribbble.com/shots/14084662-Personal-Portfolio-App) - by Carlo Bedin
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- User About Info
+- User Study Info
+- User Experience Info
+- User Projects Info
+
+
+## How to Run
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/jgaviriadev/jgaviriadev.git
+   ```
+2. Install all the packages by typing the following command
+   ```sh
+   flutter pub get
+   ```
+3. Run the App
+
+## Contact
+
+- [Jhonatan Gaviria](https://github.com/jgaviriadev/) | [Twitter](https://twitter.com/jgaviria97) | [Instagram](https://www.instagram.com/jgaviria97/)
+- If you find the content of this repository useful and you have some extra money, you can donate to me through [PayPal](https://www.paypal.com/paypalme/)
+
