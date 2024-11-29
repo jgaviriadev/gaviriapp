@@ -1,7 +1,7 @@
 # Gaviriapp
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg" width="100%"></img> 
+<img src="https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/refs/heads/main/assets/projects/portfolio-app/gaviriapp1.png" width="100%"></img> 
 </p>
 
 # Gaviriapp
